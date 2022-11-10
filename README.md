@@ -1,6 +1,6 @@
 # turtle-vue-admin-template
 
-turtle-vue-admin-template is a free admin template based Vue adn Tailwind CSS, other excellent libraries are also introduced, such as Vue-Router, Pina...
+Free admin template based Vue adn Tailwind CSS, other excellent libraries are also introduced, such as Vue-Router, Pina...
 
 ## Quick Start
 
