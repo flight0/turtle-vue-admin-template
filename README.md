@@ -1,22 +1,22 @@
-# turtle-react-admin-template
+# turtle-vue-admin-template
 
-turtle-react-admin-template is a free admin template based Vue adn Tailwind CSS, other excellent libraries are also introduced, such as Vue-Router, Pina...
+turtle-vue-admin-template is a free admin template based Vue adn Tailwind CSS, other excellent libraries are also introduced, such as Vue-Router, Pina...
 
 ## Quick Start
 
 ```sh
-git clone https://github.com/flight0/turtle-react-admin-template.git
-cd turtle-react-admin-template
+git clone https://github.com/flight0/turtle-vue-admin-template.git
+cd turtle-vue-admin-template
 npm install
 npm start
 ```
 
 ## Demo
 
-[Template Demo](https://turtle-react.guixing.fun)
+[Template Demo](https://turtle-vue.guixing.fun)
   
 ## Libraries included
 
-* [React](https://reactjs.org/)
+* [Vue](https://vuejs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
-* [React Router](https://reactrouter.com/)
+* [Vue Router](https://router.vuejs.org/)
